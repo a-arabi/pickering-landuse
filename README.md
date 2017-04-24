@@ -1,5 +1,5 @@
 # What is this project?
-This arcGIS database package asseses land use sites in the greater Pickering area for the construction of temporary facilities for road repair and expansion. 
+This arcGIS database package assesses land use sites in the greater Pickering area for the construction of temporary facilities for road repair and expansion. 
 
 ![alt text](http://i.imgur.com/QWafrKx.jpg)
 
